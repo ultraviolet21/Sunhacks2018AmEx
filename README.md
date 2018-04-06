@@ -1,4 +1,4 @@
-##Hackproject
+## Hackproject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
@@ -8,7 +8,7 @@ and deploy it into the heroku environment.
 
 
 
-##Copyright 2018 Miguel Zavala
+## Copyright 2018 Miguel Zavala
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
