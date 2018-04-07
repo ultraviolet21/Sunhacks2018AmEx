@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  username:string;
+
+  onClickMe(){
+    console.log(this.username);
+  }
 }
